@@ -1,1 +1,2 @@
-# ERFL
+# ERFL: Evidential Robust Feature Learning for Generalized Few-Shot Segmentation
+Our paper is under review...
